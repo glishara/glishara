@@ -3,7 +3,6 @@
 - 👀 I’m interested in machine learning, mobile development, code quality, testing frameworks
 - 🌱 I’m currently learning AWS, machine learning
 - 💞️ I’m looking to collaborate on library development, climate change, progressive causes
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 
 <!---
